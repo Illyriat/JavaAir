@@ -12,6 +12,6 @@ public class Flight {
     private ArrayList<Passenger> passengers;
     private ArrayList<Pilot> pilots;
 
-    
+
 
 }
